@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/ittaruin/public_html/
-    - /usr/bin/rsync -a --exclude='.git' --exclude='.cpanel.yml' ./ $DEPLOYPATH
