@@ -1,0 +1,14 @@
+
+{
+  "name": "ittaruinnovations/website",
+  "description": "Website contact form with SMTP email support",
+  "type": "project",
+  "require": {
+    "php": "^7.4",
+    "phpmailer/phpmailer": "6.9.3"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}

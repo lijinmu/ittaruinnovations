@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace example.com with your production domain before publishing.
-Sitemap: https://example.com/sitemap.xml
+Sitemap: http://ittaruinnovations.co.in/sitemap.xml
